@@ -15,4 +15,5 @@ AI 기반 침입 탐지 시스템 보고서
 [🔗 보고서 보기](https://github.com/yerinmmma/Yerin-File/blob/main/인공지능(AI)%20기반%20침입%20탐지%20시스템.docx)
 
 이력서 사진
-![Profile Image](https://github.com/yerinmmma/Yerin-File/blob/main/profile.jpg?raw=true)
+![Profile Image](https://github.com/yerinmmma/Yerin-File/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%82%AC%EC%A7%84.jpg?raw=true)
+
